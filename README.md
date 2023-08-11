@@ -1,22 +1,8 @@
-# 🇺🇦 Welcome to my profile frontpage! 🇺🇦
+<h1 align="center">Hi 👋, I'm Oleksandr [Mr.Cryo]</h1>
 
-### 🇺🇦 Support Ukraine 🇺🇦
+<h3 align="center">A Linux Embedded Engineer from Kyiv, Ukraine</h3>
 
-**If you want to help Ukraine in fighting against the World Evil, feel free to [donate to THE CO "SOLIDARNA SPRAVA HROMAD"](https://spgr.org.ua/en/)**
-
-### 🇺🇦 My interests 🇺🇦
-
-### 🇺🇦 My Statistics 🇺🇦
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCry0&show_icons=true)
-
-[![Oleksandr Suvorov profile views](https://u8views.com/api/v1/github/profiles/1039329/views/day-week-month-total-count.svg)](https://u8views.com/github/MrCry0)
-
-
-### U A Test new profile U A
-
-<h1 align="center">Hi 👋, I'm Mr.Cryo</h1>
-<h3 align="center">A passionate linux embedded engineer from Kyiv</h3>
+<h3 align="center">You can help Ukraine fighting against the World Evil by donating to the <a href="https://spgr.org.ua/en/">CO "SOLIDARNA SPRAVA HROMAD"</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcry0&label=Profile%20views&color=0e75b6&style=flat" alt="mrcry0" /> </p>
 
@@ -48,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrcry0&" alt="mrcry0" /></p>
 
+[![Mr.Cryo's profile views](https://u8views.com/api/v1/github/profiles/1039329/views/day-week-month-total-count.svg)](https://u8views.com/github/MrCry0)
