@@ -2,13 +2,11 @@
 
 <h3 align="center">A Linux Embedded Engineer from Kyiv, Ukraine</h3>
 
-<p/>
-<p/>
+<br><br>
 
 <h3 align="center">Help Ukraine fighting against the World Evil by donating to the <a href="https://spgr.org.ua/en/">CO "SOLIDARNA SPRAVA HROMAD"</a>
 
-<p/>
-<p/>
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcry0&label=Profile%20views&color=0e75b6&style=flat" alt="mrcry0" /> </p>
 
