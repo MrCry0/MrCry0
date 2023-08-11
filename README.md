@@ -2,7 +2,13 @@
 
 <h3 align="center">A Linux Embedded Engineer from Kyiv, Ukraine</h3>
 
-<h3 align="center">You can help Ukraine fighting against the World Evil by donating to the <a href="https://spgr.org.ua/en/">CO "SOLIDARNA SPRAVA HROMAD"</a>
+<p/>
+<p/>
+
+<h3 align="center">Help Ukraine fighting against the World Evil by donating to the <a href="https://spgr.org.ua/en/">CO "SOLIDARNA SPRAVA HROMAD"</a>
+
+<p/>
+<p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcry0&label=Profile%20views&color=0e75b6&style=flat" alt="mrcry0" /> </p>
 
@@ -10,7 +16,7 @@
 
 <p align="left"> <a href="https://twitter.com/cryostar" target="blank"><img src="https://img.shields.io/twitter/follow/cryostar?logo=twitter&style=for-the-badge" alt="cryostar" /></a> </p>
 
-- 🔭 I’m currently working on [Foundries.IO](https://foundries.io/)
+- 🔭 I’m currently working for [Foundries.IO](https://foundries.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
