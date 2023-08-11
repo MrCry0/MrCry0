@@ -8,4 +8,6 @@
 
 ### 🇺🇦 My Statistics 🇺🇦
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 [![Oleksandr Suvorov profile views](https://u8views.com/api/v1/github/profiles/1039329/views/day-week-month-total-count.svg)](https://u8views.com/github/MrCry0)
