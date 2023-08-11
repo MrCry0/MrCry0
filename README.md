@@ -4,7 +4,8 @@
 
 <br><br>
 
-<img src="./ukr-help.svg" alt="CO SOLIDARNA SPRAVA HROMAD"/>
+<p align="center"><img src="./ukr-help.svg" alt="CO SOLIDARNA SPRAVA 
+HROMAD"/></p>
 
 <br><br>
 
