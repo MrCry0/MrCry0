@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h3 align="center">Help Ukraine fighting against the World Evil by donating to the <a href="https://spgr.org.ua/en/">CO "SOLIDARNA SPRAVA HROMAD"</a>
+<img src="./ukr-help.svg" alt="CO SOLIDARNA SPRAVA HROMAD"/>
 
 <br><br>
 
