@@ -2,14 +2,12 @@
 
 <h3 align="center">A Linux Embedded Engineer from Kyiv, Ukraine</h3>
 
-<br><br>
-
 <p align="center"><img src="./ukr-help.svg" alt="CO SOLIDARNA SPRAVA 
 HROMAD"/></p>
 
-<br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrcry0&label=Profile%20views&color=0e75b6&style=flat" alt="mrcry0" /> </p>
+<p align="left"> <img 
+src="https://komarev.com/ghpvc/?username=mrcry0&label=Profile%20views&color=0e75b6&style=flat" 
+alt="mrcry0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrcry0" alt="mrcry0" /></a> </p>
 
