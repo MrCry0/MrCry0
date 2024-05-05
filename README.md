@@ -28,7 +28,7 @@
     </a>
 </p>
 
-- 🔭 I’m currently working for [Foundries.IO](https://foundries.io/)
+- 🔭 I’m currently working for [Qualcomm Inc.](https://www.qualcomm.com/), project [Foundries.IO](https://foundries.io/)
 
 <h3 align="left">Connect with me:</h3>
 
