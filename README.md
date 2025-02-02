@@ -20,14 +20,6 @@
     </a>
 </p>
 
-<p align="left">
-    <a href="https://twitter.com/cryostar" target="blank">
-        <img src="https://img.shields.io/twitter/follow/cryostar?logo=twitter&style=for-the-badge"
-             alt="cryostar"
-        />
-    </a>
-</p>
-
 - 🔭 I’m currently working for [Qualcomm Inc.](https://www.qualcomm.com/), project [Foundries.IO](https://foundries.io/)
 
 <h3 align="left">Connect with me:</h3>
