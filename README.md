@@ -12,15 +12,15 @@
     </a>
 </p>
 
-<p align="left">
+<!-- p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=mrcry0"
              alt="mrcry0"
         />
     </a>
-</p>
+</p -->
 
-- 🔭 I’m currently working for [Qualcomm Inc.](https://www.qualcomm.com/), project [Foundries.IO](https://foundries.io/)
+- 🔭 I’m currently working for [Qualcomm Inc.](https://www.qualcomm.com/), Project [Foundries.IO](https://foundries.io/)
 
 <h3 align="left">Connect with me:</h3>
 
